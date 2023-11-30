@@ -1,0 +1,4 @@
+local-attention
+zetascale
+torch
+einops
